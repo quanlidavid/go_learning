@@ -1,7 +1,7 @@
 package client
 
 import (
-	"go_learning/src/ch15/series"
+	"go_learning/ch15/series"
 	"testing"
 )
 
